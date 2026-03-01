@@ -5,3 +5,5 @@ cat/etc/passwd
 m{1...7}
 a{2..8}
 
+date
+iostat
