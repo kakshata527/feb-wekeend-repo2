@@ -7,3 +7,4 @@ a{2..8}
 
 date
 iostat
+ps -azuxx | grep git
